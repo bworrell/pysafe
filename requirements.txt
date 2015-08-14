@@ -1,0 +1,2 @@
+pyperclip==1.5.11
+python-mcrypt==1.1
